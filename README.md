@@ -1,6 +1,7 @@
 # risk-analysis-miniP
 
 The primary goal of this mini-project is to understand the inner workings, on a more practical level of how predicitve analysis of credot history can help create optimally accurate risk analytics systems.
+
 ---
 # Problem Statement:
 To classify borrowers as "likely to default" and "Unlikely to default" based on prior credit history. This means, given a set of predictor variables, we would need to produce target output as 1: Defaulter and 0: Non-defaulter.
