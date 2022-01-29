@@ -8,5 +8,5 @@ Given that we would need to decide on the optimal model for the task, we will em
 
 # Data Engineering:
 The data used in this mini-project has been procured from lending club website database, which stores tons of historiacal financial histroy data of multple individuals giving us a comprehensive enough scope of predictor variables.
----
+
 The main predictor variables used are:
